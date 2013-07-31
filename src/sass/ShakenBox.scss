@@ -1,0 +1,23 @@
+@import "compass/reset";
+
+body {
+    background-color: white;
+    color: black;
+    font-family: sans-serif;
+}
+
+article {
+    $size: 200px;
+    $padding: 20px;
+
+    border: solid 1px black;
+    font-size: 35px;
+    line-height: 40px;
+    cursor: pointer;
+
+    width: $size - $padding * 2;
+    height: $size - $padding * 2;
+    margin: 20px auto;
+    padding: $padding;
+}
+

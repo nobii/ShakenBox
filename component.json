@@ -1,0 +1,13 @@
+{
+  "name": "ShakenBox",
+  "version": "0.0.0",
+  "main": "js/ShakenBox.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "jquery": "~2.0.3"
+  }
+}
