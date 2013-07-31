@@ -3,7 +3,6 @@
   "version": "0.0.0",
   "main": "js/ShakenBox.js",
   "ignore": [
-    "**/.*",
     "node_modules",
     "components"
   ],
